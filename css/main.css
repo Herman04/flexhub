@@ -8,6 +8,7 @@ a {
 
 #flex {
   padding-top: 50%;
+  font-size: 200%;
 }
 .leftside > #flex :hover {
   color: crimson;
@@ -15,6 +16,7 @@ a {
 
 #hub {
   padding-top: 50%;
+  font-size: 190%;
 }
 .rightside > #hub :hover {
   color: orange;

@@ -9,9 +9,15 @@ a {
 #flex {
   padding-top: 50%;
 }
+.leftside > #flex :hover {
+  color: crimson;
+}
 
 #hub {
   padding-top: 50%;
+}
+.rightside > #hub :hover {
+  color: orange;
 }
 
 .leftside {

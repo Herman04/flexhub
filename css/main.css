@@ -1,13 +1,17 @@
-#flex {
-  text-decoration: none;
-}
-
-#hub {
-  text-decoration: none;
+a {
+  color: white;
 }
 
 #navigation {
   float: right;
+}
+
+#flex {
+  padding-top: 50%;
+}
+
+#hub {
+  padding-top: 50%;
 }
 
 .leftside {
